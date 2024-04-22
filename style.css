@@ -60,6 +60,10 @@ section .row img {
   font-size: 22px;
 }
 
+.contactInfo {
+  font-size: 22px;
+}
+
 .col-md-6 {
   margin: 0 0 30px;
 }
