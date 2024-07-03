@@ -28,6 +28,10 @@ a {
   margin: 0;
 }
 
+.emerging-link {
+  padding: 0;
+}
+
 .jumbotron {
   display: flex;
   justify-content: center;
