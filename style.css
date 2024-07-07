@@ -1,6 +1,6 @@
 body {
   font-family: Roboto, sans-serif;
-  background-image: url('https://content.codecademy.com/courses/learn-css-selectors-visual-rules/hypnotize_bg.png');
+  background-image: url(./images/kseniya-lapteva-0ksHInXh-tc-unsplash.jpg);
 }
 
 header {
@@ -39,7 +39,7 @@ a {
   background-image: url(./iskra-photography-r36TWepm5uM-unsplash.jpg);
   background-size: cover;
   color: #ffffff;
-  height: 400px;
+  height: 300px;
 }
 
 .jumbotron h2 {
