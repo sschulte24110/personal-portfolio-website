@@ -67,6 +67,9 @@ section .row img {
 .contactInfo {
   font-size: 22px;
 }
+#big-icon {
+  width: 200px;
+}
 
 .col-md-6 {
   margin: 0 0 30px;
