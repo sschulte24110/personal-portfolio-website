@@ -47,6 +47,7 @@ a {
   font-weight: 700;
   margin: 0;
   color: #fff;
+  text-shadow: 4px 4px black;
 }
 
 .jumbotron h3 {
