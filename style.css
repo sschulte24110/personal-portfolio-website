@@ -28,6 +28,10 @@ a {
   margin: 0;
 }
 
+#project-link {
+  padding: 0;
+}
+
 .emerging-link {
   padding: 0;
 }
